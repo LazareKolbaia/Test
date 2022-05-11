@@ -1,0 +1,90 @@
+a{
+    text-decoration: none;
+    float: left;
+    color: #ccc;
+}
+
+a:hover{
+    cursor: pointer;
+    transition: 0.5s;
+    color: #f4f4f4;
+}
+
+ul{
+    list-style: none;
+    float: left;
+}
+
+li{
+    float: left;
+    padding: 10px 10px 10px;
+    color: #ccc;
+    font-family: 'Trebuchet MS', 'Lucida Sans Unicode', 'Lucida Grande', 'Lucida Sans', Arial, sans-serif;
+}
+
+.container{
+    float: left;
+    display: flex;
+    padding: 10px 10px 10px;
+}
+
+#Second{
+    margin: 10px 10px 10px;
+}
+
+#Third{
+    margin: 10px 10px 10px;
+}
+
+.card{
+border: 2px #ccc solid;
+width: 150px;
+height: 150px;
+padding-left: 90px;
+padding-top: 80px;
+color: black;
+font-size: 25px;
+font-family: 'Trebuchet MS', 'Lucida Sans Unicode', 'Lucida Grande', 'Lucida Sans', Arial, sans-serif;
+}
+
+#Forth{
+    margin: 10px 10px 10px;
+}
+
+#Fifth{
+    margin: 10px 10px 10px;
+}
+
+#First{
+    margin: 10px 10px 10px;
+}
+
+#imgFirst{
+    margin-left: 10px;
+}
+
+.container{
+    margin-left: 70px;
+}
+
+.dropDown{
+    color: #ccc;
+}
+
+.dropDown:hover{
+    cursor: pointer;
+    transition: 0.5s;
+    text-decoration: underline;
+}
+
+.list-itemss{
+    border: 2px solid #ccc;
+    width: 200px;
+    height: 215px;
+    border-radius: 2px;
+}
+
+.body-container{
+    width: 992px;
+    
+}

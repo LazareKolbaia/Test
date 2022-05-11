@@ -1,0 +1,52 @@
+
+@media screen and (max-width:1414px) {
+    .card{
+        width: 130px;
+        height: 170px;
+    }
+}
+
+
+@media screen and (max-width:1345px) {
+    .card{
+        width: 100px;
+        height: 170px;
+
+    }
+}
+
+@media screen and (max-width:1197px) {
+      .card{
+          width: 70px;
+          height: 170px;
+      }
+}
+
+@media screen and (max-width:997px) {
+    .card{
+        width: 40px;
+        height: 170px;
+
+    }
+}
+
+@media screen and (max-width:993px) {
+    .card{
+        width: 20px;
+        height: 170px;
+    }
+}
+
+@media screen and (max-width:743px) {
+    .card{
+        width: 10px;
+        height: 170px;
+    }
+}
+
+@media screen and (max-width:694px) {
+    .card{
+        width: 5px;
+        height: 170px;
+    }
+}
